@@ -42,13 +42,13 @@ body.home div.change{
 body.home div.change h2{
 	font-size: 115%;
 	font-weight: bold;
-	color: #F3E700;
+	color: #FFC20E;
 }
 
 body.home div.change h2 em{
 	line-height: 1.1;
 	font-size: 120%;
-	color: #F3E700;
+	color: #FFC20E;
 }
 
 body.home div.change h2 span.note{
@@ -75,7 +75,7 @@ body.home div.pic.lecturer{
 }
 
 body.home div.pic.lecturer img{
-	border: solid 2px #F3E700;
+	border: solid 2px #FFC20E;
 }
 
 body.home div.deadline{
@@ -86,5 +86,5 @@ body.home div.deadline{
 body.home h2.subtitle{
 	font-size: 115%;
 	font-weight: bold;
-	color: #000CF3;
+	color: #0E4BFF;
 }
